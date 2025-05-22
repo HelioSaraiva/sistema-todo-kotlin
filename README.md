@@ -8,7 +8,12 @@ Aplicação de linha de comando (CLI) desenvolvida em **Kotlin** puro para geren
 
 ## 📸 Preview do App
 
-> Adicione aqui prints ou GIFs (ex: tela principal e detalhes)
+![image](https://github.com/user-attachments/assets/07a5532c-c41c-4df4-86bb-877589adf916)
+![image](https://github.com/user-attachments/assets/528f6b38-804f-4c1e-8c8f-a63a27b7a5f7)
+![image](https://github.com/user-attachments/assets/4865cc7f-982c-451d-ba93-e7ad253e49ae)
+
+
+
 
 ---
 
